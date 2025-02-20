@@ -76,6 +76,7 @@ TARGET_ENABLE_BLUR := true
 
 # Properties
 -include $(LOCAL_PATH)/properties.mk
+-include vendor/lineage-priv/keys/keys.mk
 
 # Permissions
 PRODUCT_COPY_FILES += \
